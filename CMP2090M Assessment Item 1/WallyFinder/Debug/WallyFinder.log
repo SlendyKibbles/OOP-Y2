@@ -1,0 +1,9 @@
+﻿  BaseImage.cpp
+  LargeImage.cpp
+C:\Users\lsbel\Desktop\Object Oriented Programming\BEL16626452 - CMP2090M Assessment Item 1\WallyFinder\LargeImage.cpp(21,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lsbel\Desktop\Object Oriented Programming\BEL16626452 - CMP2090M Assessment Item 1\WallyFinder\LargeImage.cpp(25,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  ReadWriteFunctions.cpp
+  RefImage.cpp
+  Generating Code...
+  WallyFinder.vcxproj -> C:\Users\lsbel\Desktop\Object Oriented Programming\BEL16626452 - CMP2090M Assessment Item 1\Debug\WallyFinder.exe
